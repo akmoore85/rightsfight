@@ -1,0 +1,18 @@
+{
+  "name": "rightsfight",
+  "version": "1.0.0",
+  "description": "forum",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Kris Lee/Alex Moore",
+  "license": "ISC"
+},
+
+"dependencies": {
+  "mongoose": "*",
+  "body-parser": "*",
+  "express": "*",
+}
